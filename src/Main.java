@@ -127,7 +127,6 @@ public class Main {
             }
             //increment the maximum flow based off the lowest flow added to the edges
             maximum += low;
-            System.out.println(maximum);
         }
     }
 }
